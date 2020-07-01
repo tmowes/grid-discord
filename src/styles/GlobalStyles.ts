@@ -39,5 +39,6 @@ export default createGlobalStyle`
     --rocketseat_old: #7159c1;
     --piktew: #fff;
     --shadow: rgba(0,0,0,0.3);
+    --hoverLight: rgba(255, 255, 255, 0.1);
   }
 `;

@@ -11,31 +11,6 @@ export const Container = styled.div`
   box-shadow: var(--shadow) 0px -1px 0 0;
   z-index: 2;
 `;
-export const Profile = styled.div`
-  display: flex;
-  align-items: center;
-`;
-export const Avatar = styled.div`
-  flex-shrink: 0;
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  background-color: var(--gray);
-`;
-export const UserData = styled.div`
-  display: flex;
-  flex-direction: column;
-  margin-left: 8px;
-`;
-export const UserName = styled.strong`
-  display: block;
-  font-size: 14px;
-  color: var(--white);
-`;
-export const UserTag = styled.span`
-  font-size: 14px;
-  color: var(--gray);
-`;
 export const Icons = styled.div`
   display: flex;
   align-items: center;

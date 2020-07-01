@@ -2,27 +2,17 @@ import React from 'react';
 
 import {
   Container,
-  Profile,
-  Avatar,
-  UserData,
-  UserName,
-  UserTag,
   Icons,
   MicrophoneIcon,
   HeadphoneIcon,
   SettingsIcon,
 } from './styles';
+import User from '../User';
 
-const UserInfo: React.FC = () => {
+const UserInfo: React.FC= () => {
   return (
     <Container>
-      <Profile>
-        <Avatar />
-        <UserData>
-          <UserName>Julius Mowes</UserName>
-          <UserTag>#D469</UserTag>
-        </UserData>
-      </Profile>
+      <User userTag='#D469' nickname='Julius Mowes' />
       <Icons>
         <MicrophoneIcon />
         <HeadphoneIcon />
