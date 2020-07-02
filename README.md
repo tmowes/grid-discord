@@ -8,7 +8,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tmowes/grid-discord">
 
   <a href="https://www.linkedin.com/in/julio-cesar-mowes/">
-    <img alt="Feito por Julio Cesar Mowes" src="https://img.shields.io/badge/Feito%20por-TMoweS-%23FF6900">
+    <img alt="Feito por Julio Cesar Mowes" src="https://img.shields.io/badge/Feito%20por-TMoweS-%23D46900">
   </a>
 
   <a href="https://github.com/tmowes/grid-discord/commits/master">
