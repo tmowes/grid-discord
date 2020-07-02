@@ -11,33 +11,28 @@ const UserList: React.FC = () => {
       <Role>Offline - 18</Role>
       <User nickname='Patrick Pegoretti' role='BOT' />
       <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
+      <User nickname='Random Fulano'/>
       <User nickname='Arrow Pegoretti'/>
       <User nickname='Patrick Pegoretti' role='BOT' />
       <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
+      <User nickname='Random Fulano'/>
       <User nickname='Arrow Pegoretti'/>
       <User nickname='Patrick Pegoretti' role='BOT' />
       <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
+      <User nickname='Random Fulano'/>
       <User nickname='Arrow Pegoretti'/>
       <User nickname='Patrick Pegoretti' role='BOT' />
       <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
+      <User nickname='Random Fulano'/>
       <User nickname='Arrow Pegoretti'/>
       <User nickname='Patrick Pegoretti' role='BOT' />
       <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
+      <User nickname='Random Fulano'/>
       <User nickname='Arrow Pegoretti'/>
       <User nickname='Patrick Pegoretti' role='BOT' />
       <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
+      <User nickname='Random Fulano'/>
       <User nickname='Arrow Pegoretti'/>
-      <User nickname='Patrick Pegoretti' role='BOT' />
-      <User nickname='Random Mowes' />
-      <User nickname='Random Pegoretti'/>
-      <User nickname='Arrow Pegoretti'/>
-
     </Container>
   );
 };
