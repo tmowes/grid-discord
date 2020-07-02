@@ -34,7 +34,7 @@ Studying grid style settings using reactJS and styled-components
 </p>
 
 <h1 align="center">
-  <img alt="grid-discord" src="https://github.com/tmowes/grid-discord/blob/master/src/assets/print-screen.png?raw=true"  width="100%" style="border-radius:20px;"/>
+  <img alt="grid-discord" src="https://github.com/tmowes/grid-discord/blob/master/src/assets/print-screen2.png?raw=true"  width="100%" style="border-radius:20px;"/>
 </h1>
 
 
